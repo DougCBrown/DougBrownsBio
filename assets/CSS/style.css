@@ -24,6 +24,7 @@ p {
 }
 h1 {
     font-size: 34px;
+    object-fit: contain;
     font-weight: bold;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-style: italic;
