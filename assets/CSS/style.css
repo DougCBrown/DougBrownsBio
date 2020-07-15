@@ -14,13 +14,17 @@ p {
     font-style: italic;
 }
 .mailer {
+    color: brown;
     width: auto;
     height: auto;
-    padding: 30px;
-    border: brown;
-    border-radius: 10px;
-    border-style: outset;
-    border-width: 3px;
+}
+.thumb {
+    border-style: ridge;
+    border-radius: 8px;
+    border-color: gold;
+    border-image-outset: initial;
+    width: 500px;
+    height: 275px;    
 }
 h1 {
     font-size: 34px;
