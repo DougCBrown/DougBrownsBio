@@ -14,8 +14,8 @@ p {
     font-style: italic;
 }
 .mailer {
-    width: 40%;
-    height: 40%;
+    width: auto;
+    height: auto;
     padding: 30px;
     border: brown;
     border-radius: 10px;
@@ -43,7 +43,7 @@ img {
     border-radius: 8px;
     border-color: gold;
     border-image-outset: initial;
-    width: 500px;
+    width: 200px;
     height: 200px;
 }
 
