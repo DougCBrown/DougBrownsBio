@@ -32,8 +32,7 @@ h1 {
 }
 
 h3 {
-    font-size: 18;
-    font-weight: bold;
+    font-size: medium;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-style: italic;
     color:brown;
@@ -44,6 +43,8 @@ img {
     border-radius: 8px;
     border-color: gold;
     border-image-outset: initial;
+    width: 500px;
+    height: 200px;
 }
 
 .float-left {
