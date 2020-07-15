@@ -72,6 +72,8 @@ img {
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
+    border: brown;
+    border-radius: 8px;
 }
 
 .footer h2 {
