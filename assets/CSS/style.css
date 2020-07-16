@@ -99,7 +99,7 @@ img {
     color: white;
   }
 
-.footer {
+.bottom {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     border: brown;
     border-radius: 8px;
@@ -107,6 +107,6 @@ img {
     padding-top: 10px;
 }
 
-.footer h2 {
+.bottom h2 {
     font-size: 20px;
 }
