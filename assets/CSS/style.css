@@ -6,7 +6,6 @@
 
 body {
     background-color: #f9e9d8d8;
-
 }
  
 p {
@@ -26,7 +25,6 @@ p {
     border-style: ridge;
     border-radius: 8px;
     border-color: brown;
-    border-image-outset: initial;
     width: 500px;
     height: 275px;    
 }
@@ -57,9 +55,8 @@ h3 {
 }
 img {
     border-style: ridge;
-    border-radius: 8px;
+    border-radius: 10px;
     border-color: gold;
-    border-image-outset: initial;
     width: 200px;
     height: 200px;
 }
