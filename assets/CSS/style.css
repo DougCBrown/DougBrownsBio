@@ -34,11 +34,9 @@ p {
 }
 a:active {
     color:red;
-    background-color: beige;
 }
 a:hover {
     color:black;
-    background-color: beige;
 }
 h1 {
     font-size: 28px;
