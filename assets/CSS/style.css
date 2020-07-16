@@ -21,13 +21,14 @@ p {
 .thumb {
     border-style: ridge;
     border-radius: 8px;
-    border-color: gold;
+    border-color: brown;
     border-image-outset: initial;
     width: 500px;
     height: 275px;    
 }
 h1 {
-    font-size: 34px;
+    font-size: 28px;
+    align-content: center;
     object-fit: contain;
     font-weight: bold;
     font-family: Georgia, 'Times New Roman', Times, serif;
