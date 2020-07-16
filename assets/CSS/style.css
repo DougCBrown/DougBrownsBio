@@ -39,8 +39,8 @@ a:active {
     background-color: beige;
 }
 a:hover {
-    color:yellow;
-    background-color: brown;
+    color:black;
+    background-color: beige;
 }
 h1 {
     font-size: 28px;
