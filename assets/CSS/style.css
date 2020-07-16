@@ -36,9 +36,11 @@ a {
 }
 a:active {
     color:red;
+    background-color: beige;
 }
 a:hover {
     color:yellow;
+    background-color: brown;
 }
 h1 {
     font-size: 28px;
