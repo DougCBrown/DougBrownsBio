@@ -30,6 +30,16 @@ p {
     width: 500px;
     height: 275px;    
 }
+a {
+    color: brown;
+
+}
+a:active {
+    color:red;
+}
+a:hover {
+    color:yellow;
+}
 h1 {
     font-size: 28px;
     align-content: center;
